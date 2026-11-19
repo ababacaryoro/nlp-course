@@ -10,7 +10,7 @@ The guide applies to every topic. The headings of the presentation are fixed; th
 |------|------|
 | Duration | 8 minutes of presentation and demo, then questions |
 | Speakers | Every member speaks, for a similar amount of time |
-| Support | Slides are optional. Any support that keeps the presentation clear is accepted (see [Support](#support)) |
+| Support | No document is required: the presentation is oral and relies on the repository and the application (see [What is shown](#what-is-shown)) |
 | Demo | Live, on the team's own laptop or on the published application. A recorded backup is kept ready |
 | Version | The repository as it is at the start of the session is the version that is presented |
 | Questions | Asked to a member chosen by the teacher, on any part of the project |
@@ -107,22 +107,16 @@ Preparation:
 - Two limits of the project, stated plainly, and what would be done with more time (more data, another model, a user test).
 - One sentence on what the team learned.
 
-## Support
+## What is shown
 
-Slides are not required. The team chooses the support that serves the presentation best:
+No slides or other document have to be produced. The presentation is oral and relies on what already exists: the repository (`README.md`, folder structure, notebooks), the code and the running application. Slides can be used if the team finds them useful, but they are not expected and are not assessed.
 
-- a few slides, if they help to tell the story;
-- the repository itself: the `README.md`, the folder structure and the notebooks shown on screen;
-- the notebooks and the application, with the explanations given orally.
+Good practice, whatever is shown:
 
-Whatever the support, the same rules apply:
-
-- one message at a time, with few words; no long paragraph copied from the README;
+- one message at a time, with few words;
 - figures and tables readable from the back of the room: large text, labeled axes;
 - code extracts of 15 lines at most, with the important lines highlighted or commented;
-- everything that is needed is open and tested before the session starts, so that no time is lost looking for a file.
-
-If slides are made, they can be added to the repository in a `presentation/` folder.
+- everything needed (README, notebooks, application, data) is open and tested before the session starts, so that no time is lost looking for a file.
 
 ## Questions
 
@@ -150,7 +144,7 @@ A short and honest answer ("this was not tested") is better than an invented one
 
 - [ ] The repository is public, the `README.md` explains how to run the application, and no key is committed.
 - [ ] The application starts from a clean clone with the documented commands.
-- [ ] The support (slides, README, notebooks) is open and ready, and the timing is rehearsed.
+- [ ] The README, the notebooks and the application are open and ready, and the timing is rehearsed.
 - [ ] The demo script, the three inputs and the recorded backup are ready.
 - [ ] The data, the models and the LLM key (if used) are available without relying on the network or on a download.
 - [ ] Each member can explain every part of the project, including the code written with an AI assistant.
