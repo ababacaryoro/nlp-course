@@ -9,7 +9,7 @@ The capstone is the last part of the course. Teams of 2 or 3 build a **working a
    - the code (notebooks for exploration and evaluation, a Python app for the demo);
    - no data file above 50 MB and no API key: keys go in a `.env` file listed in `.gitignore`, or in the secrets of the hosting platform.
 2. **A running application** with a web interface (Gradio or Streamlit), launched locally during the presentation or published on Hugging Face Spaces.
-3. **A 10-minute presentation** (8 minutes + questions): the problem and who it is for, the data, the pipeline and the choices made, the results with their limits, a live demo.
+3. **A presentation of 8 minutes plus questions**: context, course concepts used, data, code organization, how it was built, results, live demo. The detailed structure, the time budget and the checklist are in [PRESENTATION.md](PRESENTATION.md).
 
 ## Rules
 
